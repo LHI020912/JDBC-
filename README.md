@@ -41,8 +41,9 @@ try {
 
 <br /><br />
 <hr /><br />
+
 # 📚 도서 관리 및 구매 시스템 (Book Management & Sales System)
-> **Java와 Oracle DB를 연동한 MVC 패턴 기반의 도서 재고 관리 및 구매 프로그램**
+> Java와 Oracle DB를 연동한 MVC 패턴 기반의 도서 재고 관리 및 구매 프로그램
 
 사용자가 도서를 등록하고, 실시간으로 재고를 관리하며 구매 및 취소할 수 있는 CLI(Command Line Interface) 기반 시스템입니다. 재고 유효성 검사와 테이블 조인(Join) 등 실무적인 로직이 포함되어 있습니다.
 2026.02.24
